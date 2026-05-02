@@ -1,6 +1,5 @@
 import streamlit as st
 from PIL import Image, ImageEnhance
-import cv2
 import numpy as np
 
 st.title("App chỉnh sửa ảnh")
